@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Soil & Crop Nutrition Guide",
+    "subtitle": "An Interactive Dashboard for South Indian Agriculture"
+  },
+  "nav": {
+    "npkSensor": "NPK Sensor",
+    "soilExplorer": "Soil Explorer",
+    "cropGuide": "Crop Guide",
+    "organicSolutions": "Organic Solutions",
+    "references": "References"
+  },
+  "npk": {
+    "title": "NPK Sensor Analysis",
+    "subtitle": "Connect to your ESP32 device to read real-time NPK data and get personalized organic fertilizer recommendations",
+    "readData": "Read NPK Data",
+    "reading": "Reading...",
+    "nitrogen": "Nitrogen (N)",
+    "phosphorus": "Phosphorus (P)",
+    "potassium": "Potassium (K)",
+    "status": "Status",
+    "optimal": "Optimal",
+    "low": "Low",
+    "veryLow": "Very Low",
+    "enterAmount": "Enter Fertilizer Amount Needed",
+    "litersPlaceholder": "Enter liters",
+    "generateMix": "Generate Organic Mix",
+    "recommendation": "Organic Mix Recommendation",
+    "forLiters": "For {{amount}} liters of liquid fertilizer:",
+    "cowDung": "Cow Dung",
+    "kg": "kg",
+    "totalOrganic": "Total Organic Matter",
+    "instructions": "Mixing Instructions",
+    "step1": "Mix all organic materials thoroughly in a large container",
+    "step2": "Add {{amount}}L of water and stir well",
+    "step3": "Allow the mixture to ferment for 7-10 days, stirring daily",
+    "step4": "Strain the liquid and dilute 1:10 before applying to crops",
+    "noData": "No sensor data available. Click 'Read NPK Data' to connect to your ESP32 device."
+  },
+  "soil": {
+    "title": "Soil Explorer",
+    "subtitle": "Select a soil type to explore its unique characteristics, nutrient profile, and the crops that thrive in it",
+    "characteristics": "Characteristics",
+    "nutrientProfile": "Nutrient Profile",
+    "suitableCrops": "Suitable Crops",
+    "redSoil": "Red Soil",
+    "blackSoil": "Black Soil",
+    "alluvialSoil": "Alluvial Soil",
+    "lateriteSoil": "Laterite Soil"
+  },
+  "crop": {
+    "title": "Crop Nutrition Guide",
+    "subtitle": "Choose a crop to understand its specific nutritional needs for healthy growth and optimal yield",
+    "selectCrop": "Select a crop",
+    "macronutrients": "Macronutrient Requirements",
+    "micronutrients": "Micronutrient Requirements"
+  },
+  "organic": {
+    "title": "Organic Solutions Composer",
+    "subtitle": "Start with a cow dung base and select an additive to create a custom organic fertilizer",
+    "base": "Cow Dung Base",
+    "boosts": "Balanced Starter",
+    "nutrientProfile": "Nutrient Profile"
+  },
+  "references": {
+    "title": "References",
+    "subtitle": "The data in this guide is supported by agricultural research from reputable institutions",
+    "soilNutrition": "Soil Nutrition & Types",
+    "organicAmendments": "Organic Amendments & Waste Utilization"
+  },
+  "language": {
+    "select": "Language",
+    "english": "English",
+    "tamil": "தமிழ்",
+    "malayalam": "മലയാളം",
+    "telugu": "తెలుగు",
+    "kannada": "ಕನ್ನಡ"
+  }
+}
